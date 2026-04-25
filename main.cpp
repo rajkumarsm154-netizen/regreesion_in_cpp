@@ -2,11 +2,10 @@
 #include "matrix.h"
 
 int main(){
-
+    int a;
     fun1(5,4);
     fun2(6,7);
 
     return 0;
     
 }
-
